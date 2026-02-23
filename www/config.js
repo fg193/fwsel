@@ -5,7 +5,7 @@ var config = {
   show_help: true,
 
   // Versions list (optional if provided by .versions.json)
-  versions: ["23.05.4", "19.07.10"],
+  versions: ["24.10.5", "23.05.7", "21.02.7"],
 
   // Pre-selected version (optional if provided by .versions.json)
   default_version: "23.05.4",
