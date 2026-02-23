@@ -11,15 +11,15 @@ var config = {
   default_version: "23.05.4",
 
   // Image download URL (e.g. "https://downloads.openwrt.org")
-  image_url: "../misc",
+  image_url: "https://mirrors.pku.edu.cn/immortalwrt",
 
   // Insert snapshot versions (optional)
-  //show_snapshots: true,
+  show_snapshots: true,
 
   // Info link URL (optional)
   info_url: "https://openwrt.org/start?do=search&id=toh&q={title} @toh",
 
   // Attended Sysupgrade Server support (optional)
-  asu_url: "https://sysupgrade.openwrt.org",
+  asu_url: "https://sysupgrade.r2s.site",
   asu_extra_packages: ["luci"],
 };
